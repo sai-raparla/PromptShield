@@ -6,7 +6,7 @@ A ChatGPT-style chatbot UI that prevents students from accidentally sharing priv
 ---
 
 ## Features
-- **ChatGPT-like UI** (sidebar + chat bubbles + typing indicator)
+- **ChatGPT-like UI**
 - **Paste an email draft directly into chat**
 - **Safety popup** when sensitive info is detected
   - Explains what was found
